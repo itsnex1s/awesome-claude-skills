@@ -24,6 +24,7 @@ Skills extend Claude Code's capabilities by providing domain-specific knowledge,
 |-------|-------------|
 | [testing](skills/testing) | Vitest, Jest, Playwright — unit, integration, E2E tests |
 | [agent-browser](skills/agent-browser) | Browser automation, screenshots, UI testing |
+| [xcode-mcp-app-testing](skills/xcode-mcp-app-testing) | MCP-first build, test, and UI validation for Xcode apps |
 | [lighthouse-audit](skills/lighthouse-audit) | Performance audits, Core Web Vitals |
 | [code-review](skills/code-review) | Code review guidelines and best practices |
 
