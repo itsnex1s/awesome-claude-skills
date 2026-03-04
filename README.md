@@ -34,6 +34,7 @@ Skills extend Claude Code's capabilities by providing domain-specific knowledge,
 | [git-workflow](skills/git-workflow) | Conventional commits, branching, PR workflows |
 | [database-cli](skills/database-cli) | Prisma ORM — migrations, schema, queries |
 | [changelog-generator](skills/changelog-generator) | Generate release notes from commits |
+| [apple-docs](skills/apple-docs) | Apple Developer Documentation & WWDC transcripts via sosumi CLI |
 
 ## Installation
 
